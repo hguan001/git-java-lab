@@ -26,6 +26,7 @@ greet("Your Name", "your-github-username");
 You must first "add" the file to the staging area and then "commit" it:
 
 git add Participants.java
+
 git commit -m "Add [Your Name] to the list"
 
 ### 6. Push to GitHub
@@ -59,6 +60,7 @@ Create a new file called `notes.txt`.
 
 ### 4. Save the change (Commit)
 git add .
+
 git commit -m "My personal change without permission"
 
 ### 5. Merge the change yourself
