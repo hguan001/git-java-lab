@@ -124,7 +124,7 @@ git checkout -b your-name-surname
 </p>
 
 ### 2. Edit the Code
-Open `Participants.java` with any text editor and add your line inside the `main` method:
+Open `Participante.java` with any text editor and add your line inside the `main` method:
 `greet("Your Name", "your-github-username");`
 
 ### 3. Stage and Commit
